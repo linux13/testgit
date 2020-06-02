@@ -65,4 +65,9 @@ public class AdapterC extends RecyclerView.Adapter<AdapterC.Categori_Viewholder>
         }
 
     }
+
+    void helloworld(){
+
+        
+    }
 }
