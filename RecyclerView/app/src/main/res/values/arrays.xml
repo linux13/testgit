@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_catergori_name">
+
+        <item >প্রতিদিন</item>
+        <item >যিকর</item>
+        <item >সামাজিক</item>
+        <item >হজ্ব-রোজা</item>
+        <item >কুরআন</item>
+        <item >নামাজ</item>
+        <item >অনুভূতি</item>
+        <item >ঈমান</item>
+        <item >অসুস্থতা</item>
+
+    </string-array>
+
+
+    <integer-array name="array_categori_path">
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+        <item>@drawable/ic_protidin_icon</item>
+
+    </integer-array>
+</resources>
